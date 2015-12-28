@@ -4,4 +4,4 @@ Git has a mutable Index called stage.
 Git tracks changes of files.
 git remote add origin https://github.com/AIDavid/gitskills.git.
 $ git remote add origin git@github.com:michaelliao/learngit.git.
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
